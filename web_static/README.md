@@ -1,1 +1,1 @@
-This folder contains code solutions to the WEBSTATIC project
+AirBnB clone Webstatic project
